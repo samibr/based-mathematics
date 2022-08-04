@@ -1,0 +1,15 @@
+baseURL = 'https://based-mathematics.netlify.app/'
+languageCode = 'en-us'
+title = 'Based Mathematics'
+theme = 'lugo'
+
+[params]
+  favicon = "favicon.svg"
+  stylesheet = "/style.css"
+  indexarticles = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+theme = 'lugo'
