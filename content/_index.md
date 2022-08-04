@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
 - Various mathematical notions and chapters are visited through solving problems  and exercises with different difficulties.
 - The content is intended for students (*and more generally for mathematics enthusiasts*) to practice solving problems as well as for teachers as a source of exercises and problems to enrich their lessons.
 - Some hints or short answers are provided.
-- Any suggestions for a problem or exercise  or requests for a hint or answer to any questions are welcome. So  don't hesitate to email me at [sami.ben.romdhane@zohomail.com](mailto:sami.ben.romdhane@zohomail.com)
+- Any suggestions for a problem or exercise  or requests for a hint or answer to any questions are welcome. So  don't hesitate to post a comment or to  email me at [sami.ben.romdhane@zohomail.com](mailto:sami.ben.romdhane@zohomail.com)
 
 ## Donation
 
