@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 - Founded to provide a simple and free online Problem Book.
 - Various mathematical notions and chapters are visited through solving problems  and exercises with different difficulties.
-- The content is intended for students (*and more generally for mathematics enthusiasts*) to practice solving problems as well as for teachers as a source of exercises and problems to enrich their lessons.
+- The content is intended for undergraduate students (*and more generally for mathematics enthusiasts*) to practice solving problems as well as for teachers as a source of exercises and problems to enrich their lessons.
 - Some hints or short answers can be provided.
 - Any suggestions for a problem or exercise  or requests for a hint or answer to any questions are welcome. So  don't hesitate to post a comment or to  email me at [sami.ben.romdhane@zohomail.com](mailto:sami.ben.romdhane@zohomail.com)
 
