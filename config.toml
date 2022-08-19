@@ -2,7 +2,7 @@ baseURL = 'https://based-mathematics.netlify.app/'
 languageCode = 'en-us'
 title = 'Based Mathematics'
 description = "Provide a simple and free online Mathematics Problem Book"
-googleAnalytics = "G-8E4NWWRF7V"
+googleAnalytics = "UA-238100855-1"
 
 theme = 'lugo'
 
